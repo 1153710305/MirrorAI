@@ -255,7 +255,7 @@ const App: React.FC = () => {
                             <strong>⚠️ 局域网访问报错 (400 Error)?</strong>
                             <p className="mt-1">
                                 如果您在手机或其他设备通过 IP 访问（如 192.168.x.x），Google 可能会拒绝该请求。
-                                <br/>解决方案：请前往 Google Cloud Console > Credentials，找到您的 API Key，确保 <strong>Application restrictions</strong> 为 None，或在 <strong>Website restrictions</strong> 中添加该局域网 IP。
+                                <br/>解决方案：请前往 Google Cloud Console &gt; Credentials，找到您的 API Key，确保 <strong>Application restrictions</strong> 为 None，或在 <strong>Website restrictions</strong> 中添加该局域网 IP。
                             </p>
                         </div>
                         <button 
