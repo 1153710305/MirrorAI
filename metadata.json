@@ -1,0 +1,7 @@
+{
+  "name": "MirrorAI - 你的AI私人造型师",
+  "description": "上传你的全身照和心仪的衣服，立刻预览上身效果。基于 Google Gemini 强大的多模态视觉能力。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
